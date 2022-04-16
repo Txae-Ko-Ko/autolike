@@ -1,2 +1,0 @@
-# autolike
-by thaekoko
